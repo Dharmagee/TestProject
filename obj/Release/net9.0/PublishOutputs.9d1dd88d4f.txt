@@ -1,0 +1,7 @@
+D:\TestProject\bin\Release\net9.0\publish\TestProject.exe
+D:\TestProject\bin\Release\net9.0\publish\appsettings.Development.json
+D:\TestProject\bin\Release\net9.0\publish\appsettings.json
+D:\TestProject\bin\Release\net9.0\publish\TestProject.dll
+D:\TestProject\bin\Release\net9.0\publish\TestProject.deps.json
+D:\TestProject\bin\Release\net9.0\publish\TestProject.runtimeconfig.json
+D:\TestProject\bin\Release\net9.0\publish\TestProject.pdb
